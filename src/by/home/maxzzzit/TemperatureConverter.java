@@ -1,7 +1,7 @@
 package by.home.maxzzzit;
 
 //Перевод температуры из Цельсия в Фаренгейт и обратно (если аргумент convertTo равен F то температура должна быть
-// переведена в Фарингейт и наоборот соответственно)
+// переведена в Фаренгейт и наоборот соответственно)
 public class TemperatureConverter {
 	public static void main(String[]args) {
 
